@@ -59,10 +59,10 @@
 
 You can **choose what you want to donate**, all donations are awesome!</br>
 <br/>
-[<img src="https://raw.githubusercontent.com/roki8h/roki8h/7e74b5cf5502aef174981d7f6d02a448ff2b0965/PayPal.svg"
+[<img src="https://raw.githubusercontent.com/roki8h/roki8h/main/PayPal.svg"
       alt='Donate with PayPal'
       height="80"/>](https://www.paypal.me/husseinshakir)
-[<img src="https://raw.githubusercontent.com/roki8h/roki8h/7e74b5cf5502aef174981d7f6d02a448ff2b0965/BMC.svg"
+[<img src="https://raw.githubusercontent.com/roki8h/roki8h/main/BMC.svg"
       alt='Donate with PayPal'
       height="80"/>](https://www.buymeacoffee.com/HusseinShakir)
 <br/>
