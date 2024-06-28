@@ -15,7 +15,7 @@
 ## My Skills:
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,mysql,sqlite&perline=12"  alt="My Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,mysql,sqlite,php&perline=12"  alt="My Languages"/>
 </p>
 
 ### IDEs and Tools
@@ -25,18 +25,18 @@
 
 ### Other Skills
 <p>
-<img src="https://skillicons.dev/icons?i=git,materialui,firebase,flask,bots,regex,md,html&perline=12"  alt="My Skills"/>
+<img src="https://skillicons.dev/icons?i=git,materialui,firebase,scraping,bots,regex,html&perline=12"  alt="My Skills"/>
 </p>
 
 ## Follow Me
 <p>
-  <a href="https://t.me/rokidev" target="_blank">
+  <a href="https://t.me/dev4h" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  alt="My Telegram Channel"/>
   </a>
-  <a href="https://instagram.com/roki8h" target="_blank">
+  <a href="https://instagram.com/yassine.__.anime" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram"/>
   </a>
-  <a href="https://youtube.com/@roki8h" target="_blank">
+  <a href="https://youtube.com/@blackcima" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="My Youtube Channel"/>
   </a>
 </p>
@@ -61,13 +61,10 @@ You can **choose what you want to donate**, all donations are awesome!</br>
 <br/>
 [<img src="https://raw.githubusercontent.com/roki8h/roki8h/main/PayPal.svg"
       alt='Donate with PayPal'
-      height="80"/>](https://www.paypal.me/husseinshakir)
-[<img src="https://raw.githubusercontent.com/roki8h/roki8h/main/BMC.svg"
-      alt='Donate with PayPal'
-      height="80"/>](https://www.buymeacoffee.com/HusseinShakir)
+      height="80"/>](https://www.paypal.me/almekhlafi2020)
 <br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/roki8h/roki8h/main/20221103_150053.png" style="width: 28%;" alt="My Signing"/>
-  <br><b>With :heart:</b>
+  <br><b>With :heart:❤️</b>
 </p>
