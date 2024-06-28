@@ -59,9 +59,11 @@
 
 You can **choose what you want to donate**, all donations are awesome!</br>
 <p align="center">
-<br/>
-[<img src="https://raw.githubusercontent.com/roki8h/roki8h/main/PayPal.svg"
-      alt='Donate with PayPal'
-      height="80"/>](https://www.paypal.me/almekhlafi2020)
-<br/>
+    <br/>
+    <a href="https://www.paypal.me/almekhlafi2020">
+        <img src="https://raw.githubusercontent.com/roki8h/roki8h/main/PayPal.svg"
+             alt="Donate with PayPal"
+             height="80"/>
+    </a>
+    <br/>
 </p>
