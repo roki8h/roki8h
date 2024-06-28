@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roki8h/roki8h/main/20221103_150133.png" style="width: 35%;" alt="My Logo"/>
+  <img src="https://raw.githubusercontent.com/roki8h/roki8h/main/1719610899725.png" style="width: 35%;" alt="My Logo"/>
 </p>
 
 ### Welcome to Yassine (Roki)'s profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
