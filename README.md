@@ -25,7 +25,7 @@
 
 ### Other Skills
 <p>
-<img src="https://skillicons.dev/icons?i=git,materialui,firebase,scraping,bots,regex,html&perline=12"  alt="My Skills"/>
+<img src="https://skillicons.dev/icons?i=git,materialui,firebase,bots,regex,html&perline=12"  alt="My Skills"/>
 </p>
 
 ## Follow Me
