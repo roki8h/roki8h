@@ -10,8 +10,6 @@
 - ⚡ I can work on your project or create your dream project easily.
 - I do Coding for a hobby, I just ❤ programming.<br/>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=roki8h&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/roki8h)
-
 ## My Skills:
 ### Programming Languages
 <p>
