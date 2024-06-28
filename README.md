@@ -57,13 +57,11 @@
 > **These projects need you!** If you would like to support projects' further development, the creator of all these projects or the continuous maintenance of projects **feel free to donate**. Your donation is highly appreciated. Thank you!
 <br/>
 
-You can **choose what you want to donate**, all donations are awesome!</br>
+You can **choose what you want to donate**, all donations are awesome!
 <p align="center">
-    <br/>
     <a href="https://www.paypal.me/almekhlafi2020">
         <img src="https://raw.githubusercontent.com/roki8h/roki8h/main/PayPal.svg"
              alt="Donate with PayPal"
              height="80"/>
     </a>
-    <br/>
 </p>
