@@ -41,14 +41,14 @@
 <br/>
 
 ## Profile
-<img src="https://myreadme.vercel.app/api/embed/roki8h?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="My Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=roki8h&show_icons=true&theme=tokyonight" alt="My Stats" />
 
-[![Roki's github trophy](https://github-profile-trophy.vercel.app/?username=roki8h&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![Roki's github trophy](https://github-profile-trophy-one.vercel.app/?username=roki8h&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=roki8h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roki8h&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Profile Views
-  <img src="https://profile-counter.glitch.me/roki8h/count.svg"  alt="My Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=roki8h&label=Profile%20views&color=0e75b6&style=flat" alt="My Profile Views"/>
 <br/>
 
 ## Donations :heart:
