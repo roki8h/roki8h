@@ -1,65 +1,87 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roki8h/roki8h/main/1719610899725.png" style="width: 50%;" alt="My Logo"/>
+  <img src="https://raw.githubusercontent.com/roki8h/roki8h/refs/heads/main/alex_profile.png" style="width: 50%;" alt="Yassine Logo"/>
 </p>
 
-### Welcome to Yassine (Roki)'s profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h2 align="center">Hi 👋 I'm Yassine (Alex)</h2>
+<p align="center">
+💻 Mobile & Backend Developer | Android • Flutter • APIs
+</p>
 
-## About Me:
-- 💻 I'm a Software Developer working as a freelance wizard.
-- 💬 Ask me about my experience with Kotlin, Java or Android development.
-- ⚡ I can work on your project or create your dream project easily.
-- I do Coding for a hobby, I just ❤ programming.<br/>
+---
 
-## My Skills:
+## 🚀 About Me
+
+- 💻 Software Developer specializing in **Android and Flutter applications**
+- 🔧 I build **reliable, clean, and production-ready apps**
+- 🌐 Experienced in **REST API integration and backend development**
+- ⚡ Focused on **performance, stability, and real-world usability**
+- 🤝 Available for freelance projects and long-term collaboration
+
+---
+
+## 💼 What I Can Help With
+
+- 📱 Android apps (Java/Kotlin)
+- 🦋 Cross-platform apps with Flutter
+- 🔌 REST API integration
+- 🗄️ Backend development
+- 🚀 App testing & deployment
+
+---
+
+## 🧩 Tech Stack
+
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,mysql,sqlite,php&perline=12"  alt="My Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,php,mysql,sqlite&perline=12" />
 </p>
 
-### IDEs and Tools
+### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,gradle,github,ai,replit,stackoverflow&perline=12"  alt="My IDE's and Tools"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,idea,gradle,git,github,firebase,html&perline=12" />
 </p>
 
-### Other Skills
-<p>
-<img src="https://skillicons.dev/icons?i=git,materialui,firebase,bots,regex,html&perline=12"  alt="My Skills"/>
-</p>
+---
 
-## Follow Me
-<p>
-  <a href="https://t.me/dev4h" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  alt="My Telegram Channel"/>
-  </a>
-  <a href="https://instagram.com/yassine.__.anime" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram"/>
-  </a>
-  <a href="https://youtube.com/@blackcima" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="My Youtube Channel"/>
-  </a>
-</p>
-<br/>
+## 🚀 Featured Projects
 
-## Profile
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=roki8h&show_icons=true&theme=tokyonight" alt="My Stats" />
+### 📱 Olivia Store – Flutter E-Commerce App
+- Built with **Flutter & Firebase**
+- Product browsing, cart, and clean UI
+- Optimized for smooth performance
 
-[![Roki's github trophy](https://github-profile-trophy-one.vercel.app/?username=roki8h&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+### 🌐 HR Management System
+- Employee management & payroll features
+- REST API integration
+- Responsive and scalable structure
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roki8h&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### 💱 Currency Exchange Platform
+- Android app + web integration
+- Real-time currency conversion
+- Secure transaction handling
 
-### Profile Views
-  <img src="https://komarev.com/ghpvc/?username=roki8h&label=Profile%20views&color=0e75b6&style=flat" alt="My Profile Views"/>
-<br/>
+---
 
-## Donations :heart:
-> **These projects need you!** If you would like to support projects' further development, the creator of all these projects or the continuous maintenance of projects **feel free to donate**. Your donation is highly appreciated. Thank you!
-<br/>
+## 📊 GitHub Stats
 
-You can **choose what you want to donate**, all donations are awesome!
 <p align="center">
-    <a href="https://www.paypal.me/almekhlafi2020">
-        <img src="https://raw.githubusercontent.com/roki8h/roki8h/main/PayPal.svg"
-             alt="Donate with PayPal"
-             height="80"/>
-    </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=roki8h&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=roki8h&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 💼 Open to freelance opportunities
+- 🌍 Based in Morocco
+- ✉️ Available via Upwork messages
+
+---
+
+<p align="center">
+⭐ If you find my work useful, consider giving a star to the repositories!
 </p>
